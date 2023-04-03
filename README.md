@@ -1,4 +1,4 @@
-## Léxicos de Sentimento
+## Recursos Léxicos
 
 - **Brazilian Portuguese LIWC 2007 Dictionary** - http://143.107.183.175:21380/portlex/index.php/pt/projetos/liwc
 - **AffectPT-BR** - https://github.com/LaCAfe/AffectPT-br
