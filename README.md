@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Outros Recursos para o portugues
+
+- **https://github.com/ajdavidl/Portuguese-NLP
