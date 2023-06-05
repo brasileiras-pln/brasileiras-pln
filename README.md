@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ## Outros Recursos para o portugues
 
-- **https://github.com/ajdavidl/Portuguese-NLP
+- https://github.com/ajdavidl/Portuguese-NLP
